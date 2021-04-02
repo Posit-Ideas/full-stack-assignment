@@ -1,3 +1,14 @@
+Deployed App Link : [Netlify](https://photobomb.netlify.app)<br/>
+LinkedIn Link : [LinkedIn](https://www.linkedin.com/in/ankit-das-5112a1190/)<br/>
+
+This web app uses the Unsplash Developer Api to fetch images belonging to different collections and display it in an infinite scroll using reactjs.
+
+Package used for infinite scroll :
+-react-infinite-scroll-component
+Package used for calling api :
+-axios
+
+The UI of the app is made using material-ui library of react.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
